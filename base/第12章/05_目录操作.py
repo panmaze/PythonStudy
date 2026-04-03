@@ -13,7 +13,7 @@ import shutil
 # 4️⃣os.removedirs(path)：递归删除空目录，在成功删除末尾一级目录后，会“向上”尝试把父级目录也删除（直到父目录不是空目录）
 # os.removedirs('D:/demo/aa/bb')
 
-# 5️⃣os.path.exists(path)：判断路径是否存在（文件/目录都算）
+# os.path.exists(path)：判断路径是否存在（文件/目录都算）
 # result = os.path.exists('D:/demo/aa/bb')
 # print(result)
 

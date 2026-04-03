@@ -62,7 +62,7 @@
 # show2()
 
 
-# 5️⃣from 模块名 import *
+# from 模块名 import *
 # from order import *
 # from pay import *
 #

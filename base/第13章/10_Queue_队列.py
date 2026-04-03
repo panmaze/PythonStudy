@@ -39,7 +39,7 @@ from multiprocessing import Queue, Process
 # result = q2.full()
 # print(result)
 
-# 5️⃣qsize方法：获取队列长度
+# qsize方法：获取队列长度
 # q1.put(10)
 # q1.put(20)
 # q1.put(30)

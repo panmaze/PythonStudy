@@ -104,7 +104,7 @@
 #     print(car)
 # endregion
 
-# 5️⃣yield from 能把一个『可迭代对象』里的东西依次 yield 出去。(替代：for + yield)
+# yield from 能把一个『可迭代对象』里的东西依次 yield 出去。(替代：for + yield)
 # region
 # def demo():
 #     nums = [10, 20, 30, 40]

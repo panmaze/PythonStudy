@@ -50,7 +50,7 @@
 # w_pay()
 
 
-# 5️⃣from 包名.模块名 import *
+# from 包名.模块名 import *
 # from trade.order import *
 # from trade.pay import *
 #
